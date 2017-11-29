@@ -1,10 +1,10 @@
 pragma solidity ^0.4.0;
 
-contract HelloWorld {
+contract Basic {
 
   uint public balance;
 
-  function HelloWorld() public {
+  function Basic() public {
     balance = 1;
   }
 
